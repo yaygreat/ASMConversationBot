@@ -37,7 +37,7 @@ JWG: I can tell you look flustered. And cold. You’re also in a room with no fu
 
 7.	User: Don’t accept  
 JWG: What else are you going to do? Rot in this dark room? I’m giving you a way out. Take it!  
-(loop until user accepts). 
+(loop until user accepts)  
 OR  
 User: Accept  
 JWG: Good. I can make contact with the outside world from my end. If you’re able to solve this riddle, you can gain access as well. The answer is one word.
