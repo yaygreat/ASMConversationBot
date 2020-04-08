@@ -32,8 +32,7 @@ User: No, goodbye.
 JWG: No! No! Wait!  
 OR  
 User: Yes, I’m trapped! I need to get out of here! And who’s they? Are they the same people that kidnapped me? Why did they kill you? And who are you?  
-JWG: Slow down. You’re asking too many questions. You need to breathe in… and out… slowly. That’s better.
-
+JWG: Slow down. You’re asking too many questions. You need to breathe in… and out… slowly. That’s better.  
 JWG: I can tell you look flustered. And cold. You’re also in a room with no furniture. It sure doesn’t look like you’re in the comfort of your own home. What do these people want from you? I can help you out of this… In return for a small favor.
 
 7.	User: Don’t accept  
