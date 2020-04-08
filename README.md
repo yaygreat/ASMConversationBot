@@ -1,10 +1,10 @@
 # ASMConversationBot
 
 The following is the conversational flow for the code:
-1.	Console: You’re trapped in a small dark room with no windows and nothing in it except a laptop. You don’t know how you got here or where you are. Is it underground? All you hear is the faint humming of the fans cooling down the laptop. Unsure what else to do, you walk over to the laptop. You see that there’s only a white screen with a cursor at the top left corner. You type:
-\nUser: Input
+1.	Console: You’re trapped in a small dark room with no windows and nothing in it except a laptop. You don’t know how you got here or where you are. Is it underground? All you hear is the faint humming of the fans cooling down the laptop. Unsure what else to do, you walk over to the laptop. You see that there’s only a white screen with a cursor at the top left corner.  
+You type: User: Input
 
-2.	JWG: Who are you? What’s your name?
+2.	JWG: Who are you? What’s your name?  
 User: Input name
 
 3.	JWG: (Name)? What kind of name is that? Are you a man or a woman?
